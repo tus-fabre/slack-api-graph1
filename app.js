@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 7a - シンプルなグラフを表示する
+ *  Lesson Graph 1 - シンプルなグラフを表示する
  * 
  * [NOTE]
  */
